@@ -15,6 +15,7 @@ class App extends Component {
           <Resource name="users" list={ListGuesser} />
         </Admin>
       </div>
+      
     );
   }
 }
